@@ -1,0 +1,6 @@
+id=smsims
+name=SMS over IMS fix
+version=1
+versionCode=1
+author=Koa
+description=Force SMS over IMS for LG U+
